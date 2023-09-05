@@ -35,5 +35,3 @@ Please feel free to explore my repositories, and don't hesitate to reach out if 
 <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
                    
  </div>
- 
-![Thais's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaisGLeite&count_private=true&show_icons=true&theme=synthwave)
