@@ -15,7 +15,7 @@ I hold a Bachelor's degree in Computer and Information Systems from Universidade
 
 ## 💼 Skills 
 
-- Languages: Go(Golang), C#, Node.js
+- Languages: Go(Golang), C#
 - APIs: REST
 - Databases: DynamoDB (NoSQL), SQL
 - Other Technologies: Docker, Linux, Amazon AWS
@@ -30,7 +30,6 @@ Please feel free to explore my repositories, and don't hesitate to reach out if 
 <div>
 <img aling="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img aling="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 <img aling="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 <img aling="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
                    
